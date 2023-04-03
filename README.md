@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+This is my study log.. I learned from youtube: URL:https://www.youtube.com/watch?v=FHTbsZEJspU&list=PLFxNAWX8zDY_ZzY_woFQUgZJrNDLmYjT1&index=38
+
+Thanks.
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
